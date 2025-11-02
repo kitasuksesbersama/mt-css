@@ -1868,7 +1868,7 @@ table tr:hover td{
 	padding-left:12px;
 	padding-right:12px;
 	margin-bottom:0px;
-	border-radius:5px;
+	border-radius:20px;
 }
 
 .contactTextarea{
@@ -1990,6 +1990,7 @@ table tr:hover td{
 	font-style:normal;	
 	color:#666;
 }
+
 
 
 
